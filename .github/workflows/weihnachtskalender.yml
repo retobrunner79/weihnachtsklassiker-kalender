@@ -1,0 +1,32 @@
+name: Weihnachtskalender pruefen
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  kalender-pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: Kalenderdatei pruefen
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          pfad = Path("Weihnachtsklassiker_TV_2026-2027.ics")
+          inhalt = pfad.read_text(encoding="utf-8")
+
+          assert "BEGIN:VCALENDAR" in inhalt
+          assert "END:VCALENDAR" in inhalt
+
+          anzahl = inhalt.count("BEGIN:VEVENT")
+          print(f"Kalender gefunden: {anzahl} Termine")
+          assert anzahl > 0
+          PY
