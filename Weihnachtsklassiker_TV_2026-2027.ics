@@ -1,0 +1,503 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Weihnachtsklassiker 2026 2027//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weihnachtsklassiker TV 2026-2027
+X-WR-CALDESC:Momentaufnahme; kein automatisch aktualisierendes Kalender-A
+ bo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:tv-20261115-1535-ard-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261115T143500Z
+DTEND:20261115T160500Z
+SUMMARY:ARD: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261122-1520-br-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261122T142000Z
+DTEND:20261122T155000Z
+SUMMARY:BR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261122-2015-zdf-f7d9777f3271@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261122T191500Z
+DTEND:20261122T204500Z
+SUMMARY:ZDF: Das Traumschiff: Bangkok
+DESCRIPTION:Offizieller Sendereintrag\; Endzeit ist nur geschätzt\, sofe
+ rn nicht ausdrücklich bestätigt. Quelle: https://presseportal.zdf.de/t
+ railer/trailer/das-traumschiff-bangkok
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261128-0840-srf2-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261128T074000Z
+DTEND:20261128T091000Z
+SUMMARY:SRF2: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261129-0725-srf2-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261129T062500Z
+DTEND:20261129T075500Z
+SUMMARY:SRF2: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261129-1035-wdr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261129T093500Z
+DTEND:20261129T110500Z
+SUMMARY:WDR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261206-1710-hr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261206T161000Z
+DTEND:20261206T174000Z
+SUMMARY:HR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261212-1355-srf1-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261212T125500Z
+DTEND:20261212T142500Z
+SUMMARY:SRF1: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261213-0715-srf2-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261213T061500Z
+DTEND:20261213T074500Z
+SUMMARY:SRF2: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261213-1400-rbb-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261213T130000Z
+DTEND:20261213T143000Z
+SUMMARY:RBB: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261218-2015-ard-28ecba5db393@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261218T191500Z
+DTEND:20261218T205500Z
+SUMMARY:ARD: Der kleine Lord (1980)
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261220-1410-ndr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261220T131000Z
+DTEND:20261220T144000Z
+SUMMARY:NDR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261223-2015-rtl-5c2a065f1c3c@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261223T191500Z
+DTEND:20261223T210000Z
+SUMMARY:RTL: Sissi (1955)
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-1135-ard-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T103500Z
+DTEND:20261224T120500Z
+SUMMARY:ARD: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-1150-zdf-5d27d67d50a7@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T105000Z
+DTEND:20261224T122000Z
+SUMMARY:ZDF: Michel in der Suppenschüssel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-1300-ard-587d13557d5a@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T120000Z
+DTEND:20261224T122500Z
+SUMMARY:ARD: Loriot – Weihnachten bei Hoppenstedts
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-1320-zdf-3a0c8626d52a@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T122000Z
+DTEND:20261224T135000Z
+SUMMARY:ZDF: Michel bringt die Welt in Ordnung
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-1325-ard-a8ad320e50ce@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T122500Z
+DTEND:20261224T125500Z
+SUMMARY:ARD: Familie Heinz Becker – Alle Jahre wieder
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-1530-ndr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T143000Z
+DTEND:20261224T160000Z
+SUMMARY:NDR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-1835-ndr-587d13557d5a@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T173500Z
+DTEND:20261224T180000Z
+SUMMARY:NDR: Loriot – Weihnachten bei Hoppenstedts
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-2015-rtl-cae3829dd573@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T191500Z
+DTEND:20261224T211500Z
+SUMMARY:RTL: Sissi – Die junge Kaiserin (1956)
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-2015-wdr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T191500Z
+DTEND:20261224T204500Z
+SUMMARY:WDR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261224-2215-rtl-34c62f5cb540@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261224T211500Z
+DTEND:20261224T231500Z
+SUMMARY:RTL: Sissi – Schicksalsjahre einer Kaiserin (1957)
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261225-0705-zdf-e08fd5fdd750@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261225T060500Z
+DTEND:20261225T073500Z
+SUMMARY:ZDF: Michel muss mehr Männchen machen
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261225-1505-hr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261225T140500Z
+DTEND:20261225T153500Z
+SUMMARY:HR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261225-1525-ard-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261225T142500Z
+DTEND:20261225T155500Z
+SUMMARY:ARD: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261225-1630-rbb-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261225T153000Z
+DTEND:20261225T170000Z
+SUMMARY:RBB: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261225-1650-ard-28ecba5db393@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261225T155000Z
+DTEND:20261225T173000Z
+SUMMARY:ARD: Der kleine Lord (1980)
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261226-1725-mdr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261226T162500Z
+DTEND:20261226T175500Z
+SUMMARY:MDR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261226-1850-one-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261226T175000Z
+DTEND:20261226T192000Z
+SUMMARY:ONE: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261226-2015-zdf-aafe1be225d1@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261226T191500Z
+DTEND:20261226T204500Z
+SUMMARY:ZDF: Das Traumschiff: Nil
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261227-1415-swr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261227T131500Z
+DTEND:20261227T144500Z
+SUMMARY:SWR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261231-1130-ndr-00f0cdf1928c@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261231T103000Z
+DTEND:20261231T105000Z
+SUMMARY:NDR: Dinner for one – up Platt
+DESCRIPTION:Offizieller Sendereintrag\; Endzeit ist nur geschätzt\, sofe
+ rn nicht ausdrücklich bestätigt. Quelle: https://www.ndr.de/fernsehen/
+ programm/epg/Dinner-for-One-oder-Der-90-Geburtstag%2Csendung64956.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261231-1620-ndr-570b8236c445@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261231T152000Z
+DTEND:20261231T153500Z
+SUMMARY:NDR: Dinner for One
+DESCRIPTION:Offizieller Sendereintrag\; Endzeit ist nur geschätzt\, sofe
+ rn nicht ausdrücklich bestätigt. Quelle: https://www.ndr.de/fernsehen/
+ programm/epg/Dinner-for-One-oder-Der-90-Geburtstag%2Csendung64852.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261231-1750-ndr-570b8236c445@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261231T165000Z
+DTEND:20261231T171000Z
+SUMMARY:NDR: Dinner for One
+DESCRIPTION:Offizieller Sendereintrag\; Endzeit ist nur geschätzt\, sofe
+ rn nicht ausdrücklich bestätigt. Quelle: https://www.ndr.de/fernsehen/
+ programm/epg/Dinner-for-One-oder-Der-90-Geburtstag%2Csendung64956.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20261231-1940-ndr-570b8236c445@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20261231T184000Z
+DTEND:20261231T190000Z
+SUMMARY:NDR: Dinner for One
+DESCRIPTION:Offizieller Sendereintrag\; Endzeit ist nur geschätzt\, sofe
+ rn nicht ausdrücklich bestätigt. Quelle: https://www.ndr.de/fernsehen/
+ programm/epg/Dinner-for-One-oder-Der-90-Geburtstag%2Csendung64852.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20270101-0410-ndr-570b8236c445@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20270101T031000Z
+DTEND:20270101T033000Z
+SUMMARY:NDR: Dinner for One
+DESCRIPTION:Offizieller Sendereintrag\; Endzeit ist nur geschätzt\, sofe
+ rn nicht ausdrücklich bestätigt. Quelle: https://www.ndr.de/fernsehen/
+ programm/epg/Dinner-for-One-oder-Der-90-Geburtstag%2Csendung64852.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20270101-1305-swr-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20270101T120500Z
+DTEND:20270101T133500Z
+SUMMARY:SWR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20270101-2015-zdf-384db278dd6a@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20270101T191500Z
+DTEND:20270101T204500Z
+SUMMARY:ZDF: Das Traumschiff: Vietnam – Phu Quoc
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20270103-1200-kika-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20270103T110000Z
+DTEND:20270103T123000Z
+SUMMARY:KiKA: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tv-20270106-1115-br-c0bfd5fbbb57@weihnachtsklassiker.local
+DTSTAMP:20261122T061312Z
+DTSTART:20270106T101500Z
+DTEND:20270106T114500Z
+SUMMARY:BR: Drei Haselnüsse für Aschenbrödel
+DESCRIPTION:Vorläufiger bzw. aus bisheriger Übersicht übernommener Ter
+ min\; Senderbestätigung gegebenenfalls offen\; Endzeit ist nur geschät
+ zt\, sofern nicht ausdrücklich bestätigt.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
